@@ -1,59 +1,45 @@
-# DataSet Details
-Dataset Overview:
+# Coffee Shop Sales Dashboard: Excel Project
 
-149,116 Transactions
+An interactive Excel dashboard analysing the sales performance of a coffee shop chain across three New York City locations. The dashboard was built to uncover trends in customer behaviour, product performance, and revenue patterns.
 
-$698,812 Total Revenue
+## Dataset Overview
 
-$4.69 Average Transaction Value
+| Metric | Value |
+|---|---|
+| Transactions | 149,116 |
+| Total Revenue | $698,812 |
+| Average Transaction Value | $4.69 |
+| Store Locations | 3 |
+| Product Categories | 9 |
+| Product Types | 29 |
 
-3 Store Locations
+## Objective
 
-9 Product Categories
+The dashboard answers a set of core business questions through data analysis and visualisation:
 
-29 Product Types
+- When are the peak sales hours and days?
+- Which products and categories generate the most revenue?
+- How do the three store locations compare in performance?
 
-☕ Coffee Shop Sales Dashboard | Excel Project
+## Key Insights
 
-📌 Project Overview:
+- Peak sales fall between 9 and 10 AM across all locations.
+- Monday to Wednesday are the busiest trading days.
+- Barista Espresso is the top-selling product.
+- Tea is the highest-revenue category.
+- Hell's Kitchen is the strongest-performing location by sales.
 
-An interactive Excel dashboard analyzing sales performance of a coffee shop chain across 3 NYC locations — built to uncover trends in customer behavior, product performance, and revenue patterns.
+## Tools and Techniques
 
-🎯 Objective:
+- Microsoft Excel
+- Pivot Tables
+- Slicers and Filters
+- Charts and Visualisations
+- Conditional Formatting
+- Dashboard Design
 
-To answer key business questions using data analysis and visualization:
+## Author
 
-When are the peak sales hours and days?
-Which products and categories generate the most revenue?
-How do the 3 store locations compare in performance?
-
-📊 Key Metrics:
-
-Total Sales                      £20,254,
-Total Foot Fall                  4,331 customers,
-Avg Bill / Person                £4.68,
-Avg Order                        1.45 items
-
-💡 Key Insights:
-
-📈 Peak hours are 9–10 AM across all locations
-📅 Monday–Wednesday are the busiest days
-🏆 Barista Espresso is the top-selling product at £2,468
-🍵 Tea is the highest revenue category at £7,569
-🏪 Hell's Kitchen leads in sales at £6,900
-
-🛠️ Tools & Techniques Used:
-
-Microsoft Excel
-
-Pivot Tables
-
-Slicers & Filters
-
-Charts & Visualizations
-
-Conditional Formatting
-
-Dashboard Design
+**Umer Mehmood**
 
 [Video](https://github.com/user-attachments/assets/4c62b9c7-6e23-476f-be41-768c82e07491)
